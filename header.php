@@ -1,5 +1,4 @@
 <?php
    echo "Mahanakorn";
-   echo "coppy manu";
-   
+   echo "coppy manu";           
 ?>
